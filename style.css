@@ -11,3 +11,15 @@
     text-align: center;
 
 }
+.asdd{
+    width: 60%;
+    margin: auto;
+}
+.asdd, h3{
+    text-align: center;
+    text-transform: capitalize;
+    color: darkgreen;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 40px;
+}
